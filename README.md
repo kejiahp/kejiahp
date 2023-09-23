@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/9uHu0Ts.gif)](https://popoola-morenikeji-elijah.vercel.app)
 
-<h1 align="center">Hi 👋, I'm Popoola Morenikeji Elijah</h1>
+<h1 align="center">Hi 👋, I'm Elijah</h1>
 <h3 align="center">Code maestro crafting digital symphonies, harmonizing frontend and backend realms. My passion for development propels me to build robust, elegant full stack solutions.</h3>
 
 
