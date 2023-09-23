@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Popoola Morenikeji Elijah</h1>
 <h3 align="center">Code maestro crafting digital symphonies, harmonizing frontend and backend realms. My passion for development propels me to build robust, elegant full stack solutions.</h3>
 
-<img align="right" alt="lofi girl coding image" width="200" src="https://c.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kejiahp&label=Profile%20views&color=0e75b6&style=flat" alt="kejiahp" /> </p>
 
