@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kejiahp&label=Profile%20views&color=0e75b6&style=flat" alt="kejiahp" /> </p>
 
-- 🌱 I’m currently learning **various programming languages and new technologies.**
+- 🌱 Excited to acquire knowledge
 
 - 👨‍💻 All of my projects are available at [https://popoola-morenikeji-elijah.vercel.app](https://popoola-morenikeji-elijah.vercel.app)
 
