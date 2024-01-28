@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kejiah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kejiah_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/morenikeji-popoola-a80257253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morenikeji-popoola-a80257253" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/morenikeji-popoola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morenikeji-popoola" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21298768/kejiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kejiah" height="30" width="40" /></a>
 </p>
 
