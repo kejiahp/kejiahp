@@ -4,7 +4,7 @@ I'm a software developer from Nigeria.
 
 I like to build things with distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), Mobile Applications, modern backend APIs, and modern frontend frameworks.
 
-I plan on adding Go to the mix, tune in next time for that.😉
+I plan on adding [Go](https://go.dev/) to the mix, tune in next time for that.😉
 
 You can find me on:
 - [My website (skillset highlights)](https://popoola-morenikeji-elijah.vercel.app)
