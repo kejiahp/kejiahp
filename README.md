@@ -8,7 +8,7 @@ Locked in on [LeetCode](https://leetcode.com/u/kejiah/) and sharpening my system
 
 You can find me on:
 - [My website (skillset highlights)](https://www.morenikejipopoola.com/)
-- [Linkedin (experience highlights)](https://www.linkedin.com/in/morenikeji-popoola)
+- [Linkedin (experience & education highlights)](https://www.linkedin.com/in/morenikeji-popoola)
 - [Github as @kejiahp (you are here)](https://github.com/kejiahp)
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
