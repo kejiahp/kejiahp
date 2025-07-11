@@ -1,6 +1,6 @@
 ## Hi, I'm [kejiahp](https://www.linkedin.com/in/morenikeji-popoola) (Morenikeji Elijah Popoola)
 
-I'm a software developer from Nigeria.
+I'm an experienced software developer from Nigeria.
 
 I like to build things with distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), Mobile Applications, modern backend APIs, and modern frontend frameworks.
 
