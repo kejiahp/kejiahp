@@ -4,7 +4,7 @@ I'm an experienced software developer from Nigeria.
 
 I like to build things with distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), Mobile Applications, modern backend APIs, and modern frontend frameworks.
 
-Locked in on LeetCode and sharpening my system design skills—next up, mastering [Go](https://go.dev/) and [C#](https://learn.microsoft.com/en-gb/dotnet/csharp/). Catch you on the next level-up! 😉
+Locked in on DSA and sharpening my system design skills—next up, mastering [Go](https://go.dev/) and [C#](https://learn.microsoft.com/en-gb/dotnet/csharp/). Catch you on the next level-up! 😉
 
 You can find me on:
 - [My website (skillset highlights)](https://www.morenikejipopoola.com/)
