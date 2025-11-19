@@ -14,6 +14,8 @@ You can find me on:
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+---
+
 ### Languages:
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,java,cpp,cs,kotlin)](https://skillicons.dev)
