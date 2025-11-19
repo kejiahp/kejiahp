@@ -18,7 +18,9 @@ You can find me on:
 
 ### Languages:
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,java,cpp,cs,kotlin)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=java,cpp,cs,kotlin,graphql)](https://skillicons.dev)
 
 ### Databases:
 
@@ -29,23 +31,27 @@ You can find me on:
 
 </p>
 
-### Frameworks:
+##### Frameworks:
 
 <p align="left">
 
-[![Languages](https://skillicons.dev/icons?i=react,redux,fastapi,django,tailwind,sass,nestjs,nextjs,nodejs,jest,express,bootstrap,graphql,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=react,redux,fastapi,django,tailwind,sass,nestjs)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=nextjs,nodejs,jest,express,bootstrap,bash)](https://skillicons.dev)
 <a style="margin-left:5px;" href="https://developer.android.com/compose" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpackcompose" width="50" height="50"/></a>
 
 </p>
 
-<h3 align="left">Developer Tools:</h3>
+##### Developer Tools:
+
 <p align="left">
 
 [![Languages](https://skillicons.dev/icons?i=git,figma,postman,vscode,androidstudio,cmake)](https://skillicons.dev)
 
 </p>
 
-<h3 align="left">Cloud:</h3>
+### Cloud:
+
 <p align="left">
 
 [![Languages](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
