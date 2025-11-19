@@ -16,13 +16,9 @@ You can find me on:
 
 ### Languages:
 
----
-
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,java,cpp,cs,kotlin)](https://skillicons.dev)
 
 ### Databases:
-
----
 
 <p align="left">
 
@@ -32,8 +28,6 @@ You can find me on:
 </p>
 
 ### Frameworks:
-
----
 
 <p align="left">
 
