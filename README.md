@@ -1,7 +1,6 @@
 ## Hi, I'm [kejiahp](https://www.linkedin.com/in/morenikeji-popoola) (Morenikeji Elijah Popoola)
 
-I'm an experienced software developer.
-
+An experienced software developer who is passionate about open source and building beautiful things.
 I like to build things with distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), Mobile Applications, modern backend APIs, and modern frontend frameworks.
 
 Locked in on DSA and sharpening my system design skills next up, mastering [C++](https://en.cppreference.com/w/cpp.html) and [Java](https://www.oracle.com/java). Catch you on the next level-up! 📈
@@ -14,15 +13,15 @@ You can find me on:
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
----
+## Technical Skills:
 
-### Languages:
+#### Languages:
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
 
 [![Languages](https://skillicons.dev/icons?i=java,cpp,cs,kotlin,graphql)](https://skillicons.dev)
 
-### Databases:
+#### Databases:
 
 <p align="left">
 
@@ -31,7 +30,7 @@ You can find me on:
 
 </p>
 
-##### Frameworks:
+#### Frameworks:
 
 <p align="left">
 
@@ -42,7 +41,7 @@ You can find me on:
 
 </p>
 
-##### Developer Tools:
+#### Developer Tools:
 
 <p align="left">
 
@@ -50,7 +49,7 @@ You can find me on:
 
 </p>
 
-### Cloud:
+#### Cloud:
 
 <p align="left">
 
