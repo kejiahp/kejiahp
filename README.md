@@ -1,7 +1,8 @@
 ## Hi, I'm [kejiahp](https://www.linkedin.com/in/morenikeji-popoola) (Morenikeji Elijah Popoola)
 
-An experienced software developer who is passionate about open source and building beautiful things.
-I like to build things with distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), Mobile Applications, modern backend APIs, and modern frontend frameworks.
+An experienced software engineer who loves open source and creating thoughtful, well‑designed software.
+
+Skilled in C#, Python, C++, Java, TypeScript/JavaScript, and SQL/NoSQL databases. My work spans distributed systems, mobile apps, and modern backend APIs, and extends into desktop applications and low‑level software where performance, efficiency, and system‑level understanding matter. 
 
 Locked in on DSA and sharpening my system design skills next up, mastering [C++](https://en.cppreference.com/w/cpp.html) and [Java](https://www.oracle.com/java). Catch you on the next level-up! 📈
 
