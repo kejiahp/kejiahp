@@ -2,7 +2,7 @@
 
 An experienced software engineer who loves open source and creating thoughtful, well‑designed software.
 
-Skilled in C#, Python, C++, Java, TypeScript/JavaScript, and SQL/NoSQL databases. My work spans distributed systems, mobile apps, and modern backend APIs, and extends into desktop applications and low‑level software where performance, efficiency, and system‑level understanding matter. 
+Skilled in Python, C++, Java, TypeScript/JavaScript, and SQL/NoSQL databases. My work spans distributed systems, mobile apps, and modern backend APIs, and extends into desktop applications and low‑level software where performance, efficiency, and system‑level understanding matter. 
 
 Locked in on DSA and sharpening my system design skills next up, mastering [C++](https://en.cppreference.com/w/cpp.html) and [Java](https://www.oracle.com/java). Catch you on the next level-up! 📈
 
